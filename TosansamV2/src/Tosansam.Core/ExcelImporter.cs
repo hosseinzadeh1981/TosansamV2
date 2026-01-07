@@ -19,7 +19,7 @@ namespace Tosansam.Core
                 
                 var table = new TableDefinition
                 {
-                    ModelName = worksheet.Cells[1, 1].Text,
+                    Name = worksheet.Cells[1, 1].Text,
                     Title = worksheet.Cells[2, 1].Text
                 };
                 

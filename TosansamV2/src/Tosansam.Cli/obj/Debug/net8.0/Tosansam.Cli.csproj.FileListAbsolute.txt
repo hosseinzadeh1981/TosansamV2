@@ -36,3 +36,4 @@ E:\TosansamV2\TosansamV2\src\Tosansam.Cli\obj\Debug\net8.0\refint\Tosansam.Cli.d
 E:\TosansamV2\TosansamV2\src\Tosansam.Cli\obj\Debug\net8.0\Tosansam.Cli.pdb
 E:\TosansamV2\TosansamV2\src\Tosansam.Cli\obj\Debug\net8.0\Tosansam.Cli.genruntimeconfig.cache
 E:\TosansamV2\TosansamV2\src\Tosansam.Cli\obj\Debug\net8.0\ref\Tosansam.Cli.dll
+E:\TosansamV2\TosansamV2\src\Tosansam.Cli\obj\Debug\net8.0\Tosansam.Cli.sourcelink.json

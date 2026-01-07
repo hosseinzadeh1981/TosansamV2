@@ -1,0 +1,2 @@
+[2026/01/07 19:47:27] مدل 'Customer' ذخیره شد در: GeneratedModels\Customer.cs
+[2026/01/07 19:51:54] مدل 'Customer' ذخیره شد در: GeneratedModels\Customer.cs

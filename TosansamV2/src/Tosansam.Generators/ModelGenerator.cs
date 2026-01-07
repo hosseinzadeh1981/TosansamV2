@@ -26,7 +26,7 @@ namespace Tosansam.Generators
 
 namespace {namespaceName}
 {{
-    public class {table.ModelName}
+    public class {table.Name}
     {{
         {string.Join("\n        ", properties)}
     }}

@@ -2,18 +2,35 @@
 {
     public class TableDefinition
     {
-        public string ModelName { get; set; } = "";
-        public string Title { get; set; } = "";
-        public string Namespace { get; set; } = "GeneratedApp"; // اضافه شد
-        public List<FieldDefinition> Fields { get; set; } = new();
+        public string Name { get; set; }                     // ✅ نام جدول/مدل
+        public string Title { get; set; }          // ✅ عنوان
+        public string Namespace { get; set; }                // ✅ Namespace
+        public List<FieldDefinition> Fields { get; set; }    // ✅ لیست فیلدها
+
+        // Constructor
+        public TableDefinition()
+        {
+            Fields = new List<FieldDefinition>();
+            Namespace = "GeneratedApp.Models";  // مقدار پیش‌فرض
+        }
     }
+
 
     public class FieldDefinition
     {
-        public string Name { get; set; } = "";
-        public string Title { get; set; } = "";
-        public string Type { get; set; } = "string";
-        public bool IsRequired { get; set; }
-        public int MaxLength { get; set; } // اضافه شد - مقدار پیش‌فرض 0
+        public string Name { get; set; }          // ✅ نام فیلد
+        public string Title { get; set; }          // ✅ عنوان
+        public string Type { get; set; }          // ✅ نوع داده (int, string, etc.)
+        public bool IsNullable { get; set; }      // ✅ قابل null بودن
+        public bool IsPrimaryKey { get; set; }    // ✅ کلید اصلی
+        public int MaxLength { get; set; }        // ✅ حداکثر طول (برای stringها)
+
+        // Constructor
+        public FieldDefinition()
+        {
+            IsNullable = false;
+            IsPrimaryKey = false;
+            MaxLength = 0;
+        }
     }
 }

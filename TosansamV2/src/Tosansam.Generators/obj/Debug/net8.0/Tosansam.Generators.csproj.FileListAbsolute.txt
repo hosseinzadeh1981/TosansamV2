@@ -13,3 +13,4 @@ E:\TosansamV2\TosansamV2\src\Tosansam.Generators\obj\Debug\net8.0\Tosansam.Gener
 E:\TosansamV2\TosansamV2\src\Tosansam.Generators\obj\Debug\net8.0\refint\Tosansam.Generators.dll
 E:\TosansamV2\TosansamV2\src\Tosansam.Generators\obj\Debug\net8.0\Tosansam.Generators.pdb
 E:\TosansamV2\TosansamV2\src\Tosansam.Generators\obj\Debug\net8.0\ref\Tosansam.Generators.dll
+E:\TosansamV2\TosansamV2\src\Tosansam.Generators\obj\Debug\net8.0\Tosansam.Generators.sourcelink.json

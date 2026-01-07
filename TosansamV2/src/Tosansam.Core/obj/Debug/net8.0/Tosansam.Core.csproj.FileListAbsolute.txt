@@ -10,3 +10,4 @@ E:\TosansamV2\TosansamV2\src\Tosansam.Core\obj\Debug\net8.0\Tosansam.Core.dll
 E:\TosansamV2\TosansamV2\src\Tosansam.Core\obj\Debug\net8.0\refint\Tosansam.Core.dll
 E:\TosansamV2\TosansamV2\src\Tosansam.Core\obj\Debug\net8.0\Tosansam.Core.pdb
 E:\TosansamV2\TosansamV2\src\Tosansam.Core\obj\Debug\net8.0\ref\Tosansam.Core.dll
+E:\TosansamV2\TosansamV2\src\Tosansam.Core\obj\Debug\net8.0\Tosansam.Core.sourcelink.json
