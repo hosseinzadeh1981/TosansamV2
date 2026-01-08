@@ -6,6 +6,8 @@ E:\TosansamV2\TosansamV2\src\Tosansam.Cli\bin\Debug\net8.0\Tosansam.Cli.pdb
 E:\TosansamV2\TosansamV2\src\Tosansam.Cli\bin\Debug\net8.0\EPPlus.dll
 E:\TosansamV2\TosansamV2\src\Tosansam.Cli\bin\Debug\net8.0\EPPlus.Interfaces.dll
 E:\TosansamV2\TosansamV2\src\Tosansam.Cli\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+E:\TosansamV2\TosansamV2\src\Tosansam.Cli\bin\Debug\net8.0\ExcelDataReader.dll
+E:\TosansamV2\TosansamV2\src\Tosansam.Cli\bin\Debug\net8.0\ExcelDataReader.DataSet.dll
 E:\TosansamV2\TosansamV2\src\Tosansam.Cli\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
 E:\TosansamV2\TosansamV2\src\Tosansam.Cli\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
 E:\TosansamV2\TosansamV2\src\Tosansam.Cli\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
@@ -30,10 +32,10 @@ E:\TosansamV2\TosansamV2\src\Tosansam.Cli\obj\Debug\net8.0\Tosansam.Cli.Generate
 E:\TosansamV2\TosansamV2\src\Tosansam.Cli\obj\Debug\net8.0\Tosansam.Cli.AssemblyInfoInputs.cache
 E:\TosansamV2\TosansamV2\src\Tosansam.Cli\obj\Debug\net8.0\Tosansam.Cli.AssemblyInfo.cs
 E:\TosansamV2\TosansamV2\src\Tosansam.Cli\obj\Debug\net8.0\Tosansam.Cli.csproj.CoreCompileInputs.cache
+E:\TosansamV2\TosansamV2\src\Tosansam.Cli\obj\Debug\net8.0\Tosansam.Cli.sourcelink.json
 E:\TosansamV2\TosansamV2\src\Tosansam.Cli\obj\Debug\net8.0\Tosansam.4D8C60A3.Up2Date
 E:\TosansamV2\TosansamV2\src\Tosansam.Cli\obj\Debug\net8.0\Tosansam.Cli.dll
 E:\TosansamV2\TosansamV2\src\Tosansam.Cli\obj\Debug\net8.0\refint\Tosansam.Cli.dll
 E:\TosansamV2\TosansamV2\src\Tosansam.Cli\obj\Debug\net8.0\Tosansam.Cli.pdb
 E:\TosansamV2\TosansamV2\src\Tosansam.Cli\obj\Debug\net8.0\Tosansam.Cli.genruntimeconfig.cache
 E:\TosansamV2\TosansamV2\src\Tosansam.Cli\obj\Debug\net8.0\ref\Tosansam.Cli.dll
-E:\TosansamV2\TosansamV2\src\Tosansam.Cli\obj\Debug\net8.0\Tosansam.Cli.sourcelink.json

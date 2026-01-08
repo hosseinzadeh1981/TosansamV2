@@ -1,2 +1,8 @@
 [2026/01/07 19:47:27] مدل 'Customer' ذخیره شد در: GeneratedModels\Customer.cs
 [2026/01/07 19:51:54] مدل 'Customer' ذخیره شد در: GeneratedModels\Customer.cs
+[2026/01/08 13:49:00] مدل 'Customer' ذخیره شد در: GeneratedModels\Customer.cs
+[2026/01/08 13:51:58] مدل 'Customer' ذخیره شد در: GeneratedModels\Customer.cs
+[2026/01/08 13:57:24] مدل 'Customer' ذخیره شد در: GeneratedModels\Customer.cs
+[2026/01/08 14:18:09] مدل '__d_' ذخیره شد در: GeneratedModels\__d_.cs
+[2026/01/08 14:30:26] مدل 'd___' ذخیره شد در: GeneratedModels\d___.cs
+[2026/01/08 14:31:20] مدل 'd___' ذخیره شد در: GeneratedModels\d___.cs

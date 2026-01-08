@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tosansam.Cli")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb2f7b069c4b78ce40eda4075627b79891a8ba59")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e30675fc9c73c2322def52eaa9c29aab3fe4247")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tosansam.Cli")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tosansam.Cli")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

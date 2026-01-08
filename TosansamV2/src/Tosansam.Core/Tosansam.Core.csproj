@@ -12,6 +12,8 @@
 
   <ItemGroup>
     <PackageReference Include="EPPlus" Version="7.0.0" />
+    <PackageReference Include="ExcelDataReader.DataSet" Version="3.8.0" />
+    <PackageReference Include="System.Text.Encoding.CodePages" Version="8.0.0" />
   </ItemGroup>
 
 </Project>

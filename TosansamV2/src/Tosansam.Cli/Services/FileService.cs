@@ -14,7 +14,7 @@ namespace Tosansam.Cli.Services
             _outputDirectory = outputDirectory;
         }
         
-        public string SaveModel(TableDefinition table, string generatedCode)
+        public string? SaveModel(TableDefinition table, string generatedCode)
         {
             try
             {

@@ -8,9 +8,9 @@ E:\TosansamV2\TosansamV2\src\Tosansam.Generators\obj\Debug\net8.0\Tosansam.Gener
 E:\TosansamV2\TosansamV2\src\Tosansam.Generators\obj\Debug\net8.0\Tosansam.Generators.AssemblyInfoInputs.cache
 E:\TosansamV2\TosansamV2\src\Tosansam.Generators\obj\Debug\net8.0\Tosansam.Generators.AssemblyInfo.cs
 E:\TosansamV2\TosansamV2\src\Tosansam.Generators\obj\Debug\net8.0\Tosansam.Generators.csproj.CoreCompileInputs.cache
+E:\TosansamV2\TosansamV2\src\Tosansam.Generators\obj\Debug\net8.0\Tosansam.Generators.sourcelink.json
 E:\TosansamV2\TosansamV2\src\Tosansam.Generators\obj\Debug\net8.0\Tosansam.AA550229.Up2Date
 E:\TosansamV2\TosansamV2\src\Tosansam.Generators\obj\Debug\net8.0\Tosansam.Generators.dll
 E:\TosansamV2\TosansamV2\src\Tosansam.Generators\obj\Debug\net8.0\refint\Tosansam.Generators.dll
 E:\TosansamV2\TosansamV2\src\Tosansam.Generators\obj\Debug\net8.0\Tosansam.Generators.pdb
 E:\TosansamV2\TosansamV2\src\Tosansam.Generators\obj\Debug\net8.0\ref\Tosansam.Generators.dll
-E:\TosansamV2\TosansamV2\src\Tosansam.Generators\obj\Debug\net8.0\Tosansam.Generators.sourcelink.json
